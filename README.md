@@ -1,3 +1,4 @@
+Lab 2
 1. Ảnh âm bản (Image inverse transformation): 
 Biến ảnh thành "âm bản", tức là chỗ tối thành sáng, chỗ sáng thành tối, giống như phim âm bản ngày xưa.
 
